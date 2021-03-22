@@ -38,7 +38,6 @@ public class XOgame {
         System.out.println("Игра окончена");
     }
 
-        //К данному решению пришёл не совсем сам, благодаря Анне из нашей группы, полностью его разобрал, посмотрел в отладчике и много раз протестировал, каких-либо ошибок не выявил :)
     public static boolean checkWin(char symb) {
         int countDiagonal1 = 0;
         int countDiagonal2 = 0;
