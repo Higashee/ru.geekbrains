@@ -9,7 +9,7 @@ public class Cat {
         this.name = name;
         this.appetite = appetite;
     }
-
+//
     public void eat(Plate p) {
         if(p.food >= appetite){
             p.decreaseFood(appetite);

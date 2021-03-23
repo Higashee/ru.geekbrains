@@ -17,7 +17,7 @@ public class MainClass {
         catArr[4].eat(plate);
         plate.info();
         plate.addFood();
-
+//
     }
 
 
